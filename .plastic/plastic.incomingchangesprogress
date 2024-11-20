@@ -1,0 +1,28 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      4
+    ],
+    "SourceCsetId": 7,
+    "DestinationCsetId": 4,
+    "FileConflicts": [
+      {
+        "Path": "/Packages/manifest.json",
+        "ItemId": 133,
+        "ParentItemId": 129,
+        "BaseRevId": 2386,
+        "SourceRevId": 5281,
+        "DestinationRevId": 2386
+      },
+      {
+        "Path": "/Packages/packages-lock.json",
+        "ItemId": 134,
+        "ParentItemId": 129,
+        "BaseRevId": 2387,
+        "SourceRevId": 5282,
+        "DestinationRevId": 2387
+      }
+    ]
+  }
+]
